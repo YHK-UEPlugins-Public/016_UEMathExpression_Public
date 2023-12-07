@@ -8,7 +8,9 @@
 
 ## PRODUCT TITLE：
 
-UEMathExpression: Math Formula Based Procedural Mesh and Trajectory Creation For UE5
+**UEMathExpressionProceduralMesh**: Math Formula(Math Expression) Based Procedural Mesh and Trajectory For UE
+
+![FEATURED IMAGE](README/00_Res/01_Images/FEATURED%20IMAGE.png)
 
 ## SHORT DESCRIPTION：
 
@@ -80,3 +82,47 @@ UEMathExpressionEditor(Editor)
 **Supported Target Build Platforms:** Win64, Mac, Linux, iOS, Android.
 
 **Documentation and Example Project:** https://github.com/YHK-UEPlugins-Public/016_UEMathExpression_Public
+
+# Example Introduction
+
+## Example01: Demonstrate the use of “BPA_BasicMathExpressionsEvaluator” Actor. This Actor is designed to generate trajectories based on formulas(Math Expressions), concurrently visualize trajectory lines, and can drive other Actors to move along these trajectories.
+
+**Map:** `'/Script/Engine.World'/UEMathExpression/MAPs/MAP_UEMathExpression_Overview_01.MAP_UEMathExpression_Overview_01'`
+
+![image-20231207233639744](README/00_Res/01_Images/image-20231207233639744.png)
+
+## Example02: Demonstrate the usage of “BPA_BasicMathExpressionesMesh” Actor. This is used for generating a variety of procedural mesh models and trajectory lines based on formulas(Math Expressions).
+
+**Map:** `'/Script/Engine.World'/UEMathExpression/MAPs/MAP_UEMathExpression_Overview_02.MAP_UEMathExpression_Overview_02'`
+
+![image-20231207234222654](README/00_Res/01_Images/image-20231207234222654.png)
+
+# Instructions for use
+
+## Includes several pre-created mathematical formula(Math Expressions) mesh models, located in the plugin’s “ASTs/01Configs” folder.
+
+“**ASTs/01Configs**” folder: `'/UEMathExpression/ASTs/01Configs/'`
+
+![image-20231207234440042](README/00_Res/01_Images/image-20231207234440042.png)
+
+## You can copy an existing "DA_MathExpressionMeshData_000_Sphere" file from the “01Configs” folder, then modify the formula(Math Expression), click the “Rebuild Meshes” button to generate a mathematical procedural mesh, and drag the Asset file into the scene to create the corresponding Mesh Actor.
+
+![image-20231207235256800](README/00_Res/01_Images/image-20231207235256800.png)
+
+![image-20231207235458753](README/00_Res/01_Images/image-20231207235458753.png)
+
+## When modifying the float parameter values of the formula(Math Expression), you can use the calculator tool provided by this plugin to perform mathematical expression calculations.
+
+![image-20231207234825321](README/00_Res/01_Images/image-20231207234825321.png)
+
+# GALLERY
+
+![GALLERY_01](README/00_Res/01_Images/GALLERY_01.jpg)
+
+![GALLERY_02](README/00_Res/01_Images/GALLERY_02.jpg)
+
+![GALLERY_03](README/00_Res/01_Images/GALLERY_03.jpg)
+
+![GALLERY_04](README/00_Res/01_Images/GALLERY_04.jpg)
+
+![GALLERY_05](README/00_Res/01_Images/GALLERY_05.jpg)
