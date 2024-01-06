@@ -9,6 +9,7 @@
 **Demo Video**: https://youtu.be/gfurnXhF3OY
 
 **UE5 Example Demo on GitLab**: https://gitlab.com/UEMarketplaceSubmission_Public/uemathexpression_public
+**Discord.com Server**: https://discord.gg/8ptrDrMXVN
 
 # Introduce
 
