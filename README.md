@@ -7,6 +7,7 @@
 # Related Links
 
 **Demo Video**: https://youtu.be/gfurnXhF3OY
+**Get this plugin from UE Marketplace**: https://www.unrealengine.com/marketplace/en-US/product/uemathexpressionproceduralmesh-math-formula-based-procedural-mesh-and-trajectory
 
 **UE5 Example Demo on GitLab**: https://gitlab.com/UEMarketplaceSubmission_Public/uemathexpression_public
 **Discord.com Server**: https://discord.gg/8ptrDrMXVN
